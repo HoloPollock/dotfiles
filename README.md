@@ -6,6 +6,10 @@ my dotfile
 ```
 mv /smallvim/.vimrc $HOME
 ```
+### Regular
+``` 
+mv .vimrc $HOME
+```
 
 ## For Jellybeans to work
 ```
